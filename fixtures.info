@@ -1,0 +1,4 @@
+name = Fixtures
+description = "Create nodes from yaml fixtures"
+core = 6.x     
+package = Redbull
